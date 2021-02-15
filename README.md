@@ -1,6 +1,9 @@
 COBA, Chase Online Banking Agent
 ================================
 
+**This project is no longer maintained, and the author does not have any
+recommendations for a replacement.**
+
 COBA is a Python library that provides an interface to Chase Online Banking by
 scraping the mobile version of the Chase Online website.
 
